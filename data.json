@@ -1,0 +1,5 @@
+[
+  {"fixed_acidity": 9.3, "residual_sugar": 6.4, "alcohol": 13.6, "density": 1.0005, "quality_label": "high"},
+  {"fixed_acidity": 11.2, "residual_sugar": 2.0, "alcohol": 14.0, "density": 0.9912, "quality_label": "medium"},
+  {"fixed_acidity": 11.6, "residual_sugar": 0.9, "alcohol": 8.2, "density": 0.9935, "quality_label": "low"}
+]
